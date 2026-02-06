@@ -404,6 +404,11 @@ header
          width: 40px;  /* size of the icon */
           height: 40px;
         }
+        .icon4 {
+          width: 80px;  /* size of the icon */
+          height: 80px;
+          margin: 5px;
+        }
 
          .send-load {
       padding: 12px 30px;
